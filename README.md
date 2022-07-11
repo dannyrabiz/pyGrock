@@ -1,4 +1,4 @@
-# pyGrock
+# pyGrok
 Python simulations of probability riddles to help gain an intuitive understanding beyond the formulaic answer
 
 ### Riddle #1 - 100 prisoner problem 
